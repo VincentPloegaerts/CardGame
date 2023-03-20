@@ -5,7 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Unreal/CardGameUE/CardGame/CardGameProject/Content/Levels/BaseMap.umap"
+				"D:/Unreal/CardGameUE/CardGame/CardGameProject/Content/Levels/BaseMap.umap",
+				"D:/Unreal/CardGameUE/CardGame/CardGameProject/Content/3C/Character/PlayerBP.uasset",
+				"D:/Unreal/CardGameUE/CardGame/CardGameProject/Content/HealthComponent.uasset",
+				"D:/Unreal/CardGameUE/CardGame/CardGameProject/Content/Potions/HealthPotion.uasset",
+				"D:/Unreal/CardGameUE/CardGame/CardGameProject/Content/Potions/Potion.uasset",
+				"D:/Unreal/CardGameUE/CardGame/CardGameProject/Content/System/MainGameMode.uasset",
+				"D:/Unreal/CardGameUE/CardGame/CardGameProject/Content/MainGameMode.uasset",
+				"D:/Unreal/CardGameUE/CardGame/CardGameProject/Content/Cards/BaseCard.uasset",
+				"D:/Unreal/CardGameUE/CardGame/CardGameProject/Content/DeckManager.uasset",
+				"D:/Unreal/CardGameUE/CardGame/CardGameProject/Content/NewPaperFlipbook.uasset",
+				"D:/Unreal/CardGameUE/CardGame/CardGameProject/Content/NewPaperSprite.uasset",
+				"D:/Unreal/CardGameUE/CardGame/CardGameProject/Content/NewPaperSprite1.uasset",
+				"D:/Unreal/CardGameUE/CardGame/CardGameProject/Content/Zeldo/Game_Boy_Advance_-_The_Legend_of_Zelda_The_Minish_Cap_-_Link_Cap.uasset",
+				"D:/Unreal/CardGameUE/CardGame/CardGameProject/Content/3C/Character/Potion.uasset",
+				"D:/Unreal/CardGameUE/CardGame/CardGameProject/Content/3C/Character/HealthPotion.uasset"
 			]
 		}
 	]
